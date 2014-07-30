@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping assembly="NHModel" namespace="NHModel.Model.Domain" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Userinfo" table="UserInfo" lazy="true" >
+    <id name="Userid" column="UserID">
+      <generator class="identity" />
+    </id>
+    <many-to-one name="Companyinfo">
+      <column name="CompanyID" sql-type="int" not-null="true" />
+    </many-to-one>
+    <property name="Username">
+      <column name="UserName" sql-type="nvarchar" not-null="true" />
+    </property>
+    <property name="Userage">
+      <column name="UserAge" sql-type="int" not-null="false" />
+    </property>
+    <property name="Usersex">
+      <column name="UserSex" sql-type="bit" not-null="false" />
+    </property>
+  </class>
+</hibernate-mapping>
