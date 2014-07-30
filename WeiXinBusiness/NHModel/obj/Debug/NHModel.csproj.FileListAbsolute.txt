@@ -1,0 +1,11 @@
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\bin\Debug\NHModel.dll
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\bin\Debug\NHModel.pdb
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\obj\Debug\NHModel.dll
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\obj\Debug\NHModel.pdb
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\bin\Debug\Model\Mapping\Companyinfo.hbm.xml
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\bin\Debug\Model\Mapping\Userinfo.hbm.xml
+E:\SvnWork\微信电商\Source\WeiXinBusiness\ConsoleTest\bin\Debug\Model\Mapping\Companyinfo.hbm.xml
+E:\SvnWork\微信电商\Source\WeiXinBusiness\ConsoleTest\bin\Debug\Model\Mapping\Userinfo.hbm.xml
+E:\SvnWork\微信电商\Source\WeiXinBusiness\ConsoleTest\bin\Debug\NHModel.dll
+E:\SvnWork\微信电商\Source\WeiXinBusiness\ConsoleTest\bin\Debug\NHModel.pdb
+E:\SvnWork\微信电商\Source\WeiXinBusiness\NHModel\obj\Debug\NHModel.csprojResolveAssemblyReference.cache
